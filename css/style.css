@@ -635,7 +635,7 @@ img {
 	width: 156px;
 }
 #body div.blog .featured ul li div a.more:hover {
-	background-color: #c8c10d;
+	background-color: red;
 	border: none;
 	color: #ffffff;
 	height: 40px;
